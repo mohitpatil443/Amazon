@@ -28,4 +28,7 @@ In reducer.js, we basically state the initial state and define the listener or t
 
 4] In the Product.js we add the item to the basket. Any update in the basket automatically updates the places they are being used at
 
+useHistory can be used to navigate the website because it keeps the button styling as it is.
+Link actually acts as a link that alters the styling
+
 
